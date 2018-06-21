@@ -15,7 +15,11 @@ We'll be working in pairs to tinker with more code, using functions provided by 
 
 ## How to use Glitch for our next challenges:
 
+<br/>
+
 :star: [**Click here to open a template project with p5js already set up**](https://glitch.com/edit/#!/canvas-challenges) :star:
+
+<br/>
 
 **Instructions:**
 
@@ -90,7 +94,7 @@ Look at [the reference page for the `fill()` function](https://p5js.org/referenc
 
 ## Challenge 7:
 
-First, ***take a guess*** as to what will happen when we run the example code below. ***Discuss** your ideas!
+First, ***take a guess*** as to what will happen when we run the example code below. ***Discuss*** your ideas!
 
 After you've made predictions and discussed them, copy-paste the code somewhere immediately after your previous lines of code, and see what happens:
 
